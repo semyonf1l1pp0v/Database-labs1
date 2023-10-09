@@ -2,4 +2,4 @@ Tasks from the first semester of learning Database in university - mainly focuse
 
 //FILES WILL BE UPLOADED SOON
 
-// soon full descriptions of tasks in English will be added
+// soon full descriptions of tasks will be added
